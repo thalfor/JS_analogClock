@@ -6,7 +6,7 @@
 
 ## Project
 
-You can find the project completed [here](thalfor.github.io/analogClockJS)
+You can find the project completed [here](https://thalfor.github.io/analogClockJS).
 
 ---
 
