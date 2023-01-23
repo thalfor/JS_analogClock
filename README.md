@@ -1,6 +1,6 @@
 <h1 align="center"> Analog Clock </h1>
 
-This project was done for better understading of CSS.
+<p align="center"> This project was done for better understading of CSS. </p>
 
 ---
 
