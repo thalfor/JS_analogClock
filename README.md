@@ -4,6 +4,12 @@ This project was done for better understading of CSS.
 
 ---
 
+## Project
+
+You can find the project completed [here](thalfor.github.io/analogClockJS)
+
+---
+
 ## Code
 
 The code is divided in 3 parts:
